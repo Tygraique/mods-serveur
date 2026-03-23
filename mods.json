@@ -10,5 +10,9 @@
   {
     "nom": "bookofdragons-1.21-1.20.1.jar",
     "url": "https://raw.githubusercontent.com/Tygraique/mods-serveur/main/bookofdragons-1.21-1.20.1.jar"
+  },
+  {
+    "nom": "geckolib-forge-1.20.1-4.8.3.jar",
+    "url": "https://raw.githubusercontent.com/Tygraique/mods-serveur/main/geckolib-forge-1.20.1-4.8.3.jar"
   }
 ]
