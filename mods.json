@@ -2,5 +2,9 @@
   {
     "nom": "jei-1.20.1-forge-15.20.0.129.jar",
     "url": "https://raw.githubusercontent.com/Tygraique/mods-serveur/main/jei-1.20.1-forge-15.20.0.129.jar"
+  },
+  {
+    "nom": "deuxieme-mod.jar",
+    "url": "https://raw.githubusercontent.com/Tygraique/mods-serveur/main/deuxieme-mod.jar"
   }
 ]
