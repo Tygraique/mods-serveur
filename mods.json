@@ -6,5 +6,9 @@
   {
     "nom": "basicweapons-1.2.2.jar",
     "url": "https://raw.githubusercontent.com/Tygraique/mods-serveur/main/basicweapons-1.2.2.jar"
+  },
+  {
+    "nom": "bookofdragons-1.21-1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/Tygraique/mods-serveur/main/bookofdragons-1.21-1.20.1.jar"
   }
 ]
