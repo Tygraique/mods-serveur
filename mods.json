@@ -6,5 +6,9 @@
   {
     "nom": "basicweapons-1.2.2.jar",
     "url": "https://raw.githubusercontent.com/Tygraique/mods-serveur/main/basicweapons-1.2.2.jar"
+  },
+  {
+    "nom": "secondary-1.0.0-forge-1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/Tygraique/mods-serveur/main/secondary-1.0.0-forge-1.20.1.jar"
   }
 ]
