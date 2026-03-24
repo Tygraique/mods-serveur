@@ -8,6 +8,10 @@
     "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/controllable-forge-1.20.1-0.21.8.jar"
   },
   {
+    "nom": "framework-forge-1.20.1-0.8.0.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/framework-forge-1.20.1-0.8.0.jar"
+  },
+  {
     "nom": "jei-1.20.1-forge-15.20.0.129.jar",
     "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/jei-1.20.1-forge-15.20.0.129.jar"
   }
