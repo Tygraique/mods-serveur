@@ -1,10 +1,646 @@
 [
   {
-    "nom": "examplemod-1.0.0.jar",
-    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/examplemod-1.0.0.jar"
+    "nom": "1.20.1.SecurityCraft.v1.10.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/1.20.1.SecurityCraft.v1.10.1.jar"
   },
   {
-    "nom": "jei-1.20.1-forge-15.20.0.129.jar",
-    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/jei-1.20.1-forge-15.20.0.129.jar"
+    "nom": "ad_astra-forge-1.20.1-1.15.20.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/ad_astra-forge-1.20.1-1.15.20.jar"
+  },
+  {
+    "nom": "alexscaves-2.0.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/alexscaves-2.0.2.jar"
+  },
+  {
+    "nom": "alexsmobs-1.22.9.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/alexsmobs-1.22.9.jar"
+  },
+  {
+    "nom": "amendments-1.20-2.2.5.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/amendments-1.20-2.2.5.jar"
+  },
+  {
+    "nom": "ApothicAttributes-1.20.1-1.3.7.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/ApothicAttributes-1.20.1-1.3.7.jar"
+  },
+  {
+    "nom": "Applied-Mekanistics-1.4.3.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Applied-Mekanistics-1.4.3.jar"
+  },
+  {
+    "nom": "appliedenergistics2-forge-15.4.10.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/appliedenergistics2-forge-15.4.10.jar"
+  },
+  {
+    "nom": "architectury-9.2.14-forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/architectury-9.2.14-forge.jar"
+  },
+  {
+    "nom": "areaeffectcloud3d-1.0.4.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/areaeffectcloud3d-1.0.4.jar"
+  },
+  {
+    "nom": "artifacts-forge-9.5.16.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/artifacts-forge-9.5.16.jar"
+  },
+  {
+    "nom": "atmosphericwatergenerator-1.0.12-forge-1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/atmosphericwatergenerator-1.0.12-forge-1.20.1.jar"
+  },
+  {
+    "nom": "AutoLeveling-1.20-1.19b.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/AutoLeveling-1.20-1.19b.jar"
+  },
+  {
+    "nom": "azurelib-neo-1.20.1-3.1.4.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/azurelib-neo-1.20.1-3.1.4.jar"
+  },
+  {
+    "nom": "balm-forge-1.20.1-7.3.38-all.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/balm-forge-1.20.1-7.3.38-all.jar"
+  },
+  {
+    "nom": "barnacoin-1.0.0-forge-1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/barnacoin-1.0.0-forge-1.20.1.jar"
+  },
+  {
+    "nom": "block_factorys_bosses-2.0.12-forge-1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/block_factorys_bosses-2.0.12-forge-1.20.1.jar"
+  },
+  {
+    "nom": "blue_skies-1.20.1-1.3.31.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/blue_skies-1.20.1-1.3.31.jar"
+  },
+  {
+    "nom": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Bookshelf-Forge-1.20.1-20.2.15.jar"
+  },
+  {
+    "nom": "born_in_chaos_.Forge.1.20.1_1.7.4.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/born_in_chaos_.Forge.1.20.1_1.7.4.jar"
+  },
+  {
+    "nom": "Botania-1.20.1-451-FORGE.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Botania-1.20.1-451-FORGE.jar"
+  },
+  {
+    "nom": "botarium-forge-1.20.1-2.3.4.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/botarium-forge-1.20.1-2.3.4.jar"
+  },
+  {
+    "nom": "carryon-forge-1.20.1-2.1.2.7.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/carryon-forge-1.20.1-2.1.2.7.jar"
+  },
+  {
+    "nom": "citadel-2.6.3-1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/citadel-2.6.3-1.20.1.jar"
+  },
+  {
+    "nom": "cloth-config-11.1.136-forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/cloth-config-11.1.136-forge.jar"
+  },
+  {
+    "nom": "compactmekanismmachinesplus-0.4.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/compactmekanismmachinesplus-0.4.1.jar"
+  },
+  {
+    "nom": "ConstructionSticks-1.20.1-1.2.5.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/ConstructionSticks-1.20.1-1.2.5.jar"
+  },
+  {
+    "nom": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Corgilib-Forge-1.20.1-4.0.3.4.jar"
+  },
+  {
+    "nom": "create-1.20.1-6.0.8.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/create-1.20.1-6.0.8.jar"
+  },
+  {
+    "nom": "Create.Mekanism.Ore.Excavation.1.20.1.B.1.0.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Create.Mekanism.Ore.Excavation.1.20.1.B.1.0.jar"
+  },
+  {
+    "nom": "createaddition-1.20.1-1.3.3.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/createaddition-1.20.1-1.3.3.jar"
+  },
+  {
+    "nom": "createoreexcavation-1.20-1.6.5.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/createoreexcavation-1.20-1.6.5.jar"
+  },
+  {
+    "nom": "create_security-0.1.2-forge-1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/create_security-0.1.2-forge-1.20.1.jar"
+  },
+  {
+    "nom": "cristellib-1.1.6-forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/cristellib-1.1.6-forge.jar"
+  },
+  {
+    "nom": "cupboard-1.20.1-3.5.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/cupboard-1.20.1-3.5.jar"
+  },
+  {
+    "nom": "curios-forge-5.14.1+1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/curios-forge-5.14.1%2B1.20.1.jar"
+  },
+  {
+    "nom": "Cyclic-1.20.1-1.13.6.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Cyclic-1.20.1-1.13.6.jar"
+  },
+  {
+    "nom": "Darker.Depths-1.20.1-2.0.9.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Darker.Depths-1.20.1-2.0.9.jar"
+  },
+  {
+    "nom": "DarkUtilities-Forge-1.20.1-17.0.6.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/DarkUtilities-Forge-1.20.1-17.0.6.jar"
+  },
+  {
+    "nom": "Data_Anchor-forge-1.20.1-1.0.0.20.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Data_Anchor-forge-1.20.1-1.0.0.20.jar"
+  },
+  {
+    "nom": "dreadsteel-1.20.1-1.2.0.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/dreadsteel-1.20.1-1.2.0.jar"
+  },
+  {
+    "nom": "DreamCasLib.1.0.1.-.1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/DreamCasLib.1.0.1.-.1.20.1.jar"
+  },
+  {
+    "nom": "dungeons-and-taverns-3.0.3.f.Forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/dungeons-and-taverns-3.0.3.f.Forge.jar"
+  },
+  {
+    "nom": "dungeons_enhanced-1.20.1-5.4.3.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/dungeons_enhanced-1.20.1-5.4.3.jar"
+  },
+  {
+    "nom": "dynamiclights-1.20.1.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/dynamiclights-1.20.1.2.jar"
+  },
+  {
+    "nom": "easy-villagers-forge-1.20.1-1.1.23.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/easy-villagers-forge-1.20.1-1.1.23.jar"
+  },
+  {
+    "nom": "EasyMagic-v8.0.1-1.20.1-Forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/EasyMagic-v8.0.1-1.20.1-Forge.jar"
+  },
+  {
+    "nom": "elevatorid-1.20.1-1.9.1-forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/elevatorid-1.20.1-1.9.1-forge.jar"
+  },
+  {
+    "nom": "endermanoverhaul-forge-1.20.1-1.0.4.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/endermanoverhaul-forge-1.20.1-1.0.4.jar"
+  },
+  {
+    "nom": "Enhanced-Celestials-forge-1.20.1-5.0.3.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Enhanced-Celestials-forge-1.20.1-5.0.3.2.jar"
+  },
+  {
+    "nom": "Evolved.Mekanism-1.20.1-1.2.1-fix4.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Evolved.Mekanism-1.20.1-1.2.1-fix4.jar"
+  },
+  {
+    "nom": "exdeorum-1.49.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/exdeorum-1.49.jar"
+  },
+  {
+    "nom": "FarmersDelight-1.20.1-1.2.11.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/FarmersDelight-1.20.1-1.2.11.jar"
+  },
+  {
+    "nom": "flib-1.20.1-0.0.15.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/flib-1.20.1-0.0.15.jar"
+  },
+  {
+    "nom": "friendsandfoes-forge-mc1.20.1-3.0.9.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/friendsandfoes-forge-mc1.20.1-3.0.9.jar"
+  },
+  {
+    "nom": "fromtheshadowsreborn-2.9.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/fromtheshadowsreborn-2.9.jar"
+  },
+  {
+    "nom": "Galosphere-1.20.1-1.4.1-Forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Galosphere-1.20.1-1.4.1-Forge.jar"
+  },
+  {
+    "nom": "GatewaysToEternity-1.20.1-4.2.6.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/GatewaysToEternity-1.20.1-4.2.6.jar"
+  },
+  {
+    "nom": "geckolib-forge-1.20.1-4.8.3.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/geckolib-forge-1.20.1-4.8.3.jar"
+  },
+  {
+    "nom": "goety-2.5.50.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/goety-2.5.50.2.jar"
+  },
+  {
+    "nom": "goety_cataclysm-1.20-1.8.0.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/goety_cataclysm-1.20-1.8.0.jar"
+  },
+  {
+    "nom": "goety_spillage-1.20-1.4.6.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/goety_spillage-1.20-1.4.6.jar"
+  },
+  {
+    "nom": "guideme-20.1.14.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/guideme-20.1.14.jar"
+  },
+  {
+    "nom": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/iceandfire-2.1.13-1.20.1-beta-5.jar"
+  },
+  {
+    "nom": "IceAndFireCE-1.2.5-1.20.1-forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/IceAndFireCE-1.2.5-1.20.1-forge.jar"
+  },
+  {
+    "nom": "idas_forge-1.13.0+1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/idas_forge-1.13.0%2B1.20.1.jar"
+  },
+  {
+    "nom": "Iglee.s.Library-1.20.1-1.2.7.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Iglee.s.Library-1.20.1-1.2.7.jar"
+  },
+  {
+    "nom": "illageandspillagerespillaged-1.2.8.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/illageandspillagerespillaged-1.2.8.jar"
+  },
+  {
+    "nom": "insanelib-1.23.4.3.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/insanelib-1.23.4.3.jar"
+  },
+  {
+    "nom": "integrated_api-1.7.2+1.20.1-forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/integrated_api-1.7.2%2B1.20.1-forge.jar"
+  },
+  {
+    "nom": "integrated_cataclysm_forge-1.0.5+1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/integrated_cataclysm_forge-1.0.5%2B1.20.1.jar"
+  },
+  {
+    "nom": "ironfurnaces-1.20.1-4.1.6.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/ironfurnaces-1.20.1-4.1.6.jar"
+  },
+  {
+    "nom": "itemcollectors-1.1.12-forge-mc1.20.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/itemcollectors-1.1.12-forge-mc1.20.2.jar"
+  },
+  {
+    "nom": "jeed-1.20-2.2.5.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/jeed-1.20-2.2.5.jar"
+  },
+  {
+    "nom": "jei-1.20.1-forge-15.20.0.112.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/jei-1.20.1-forge-15.20.0.112.jar"
+  },
+  {
+    "nom": "jupiter-2.3.7-1.20.1-forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/jupiter-2.3.7-1.20.1-forge.jar"
+  },
+  {
+    "nom": "lionfishapi-2.4-Fix.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/lionfishapi-2.4-Fix.jar"
+  },
+  {
+    "nom": "lootr-forge-1.20-0.7.35.94.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/lootr-forge-1.20-0.7.35.94.jar"
+  },
+  {
+    "nom": "lucky-block-forge-1.20.1-13.0.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/lucky-block-forge-1.20.1-13.0.jar"
+  },
+  {
+    "nom": "L_Enders_Cataclysm-3.26-enchant-fix.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/L_Enders_Cataclysm-3.26-enchant-fix.jar"
+  },
+  {
+    "nom": "mcjtylib-1.20-8.0.7.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mcjtylib-1.20-8.0.7.jar"
+  },
+  {
+    "nom": "Mekanism-1.20.1-10.4.16.80.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Mekanism-1.20.1-10.4.16.80.jar"
+  },
+  {
+    "nom": "Mekanism-MoreSolarPanels-1.20.1-1.5.9.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Mekanism-MoreSolarPanels-1.20.1-1.5.9.jar"
+  },
+  {
+    "nom": "MekanismAdditions-1.20.1-10.4.16.80.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/MekanismAdditions-1.20.1-10.4.16.80.jar"
+  },
+  {
+    "nom": "mekanismbiggerteleporter-1.0.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mekanismbiggerteleporter-1.0.2.jar"
+  },
+  {
+    "nom": "MekanismDelight-1.20.1-1.1.3.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/MekanismDelight-1.20.1-1.1.3.jar"
+  },
+  {
+    "nom": "MekanismElements-1.20.1-2.3.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/MekanismElements-1.20.1-2.3.jar"
+  },
+  {
+    "nom": "MekanismExplosives-1.20.1-0.3.5.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/MekanismExplosives-1.20.1-0.3.5.jar"
+  },
+  {
+    "nom": "MekanismGenerators-1.20.1-10.4.16.80.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/MekanismGenerators-1.20.1-10.4.16.80.jar"
+  },
+  {
+    "nom": "MekanismMoreMachine-1.20.1-1.0.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/MekanismMoreMachine-1.20.1-1.0.jar"
+  },
+  {
+    "nom": "MekanismTools-1.20.1-10.4.16.80.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/MekanismTools-1.20.1-10.4.16.80.jar"
+  },
+  {
+    "nom": "mekanismupgradesreborn-1.20.1-5.0.0.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mekanismupgradesreborn-1.20.1-5.0.0.jar"
+  },
+  {
+    "nom": "MekanismWeapons-1.20.1-3.0.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/MekanismWeapons-1.20.1-3.0.jar"
+  },
+  {
+    "nom": "mekanism_extras-1.20.1-1.4.6.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mekanism_extras-1.20.1-1.4.6.jar"
+  },
+  {
+    "nom": "mekanism_lasers-1.0.10.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mekanism_lasers-1.0.10.jar"
+  },
+  {
+    "nom": "mekanism_turrets-1.3.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mekanism_turrets-1.3.2.jar"
+  },
+  {
+    "nom": "mekanism_weaponry-1.1.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mekanism_weaponry-1.1.2.jar"
+  },
+  {
+    "nom": "mekmm-1.20.1-1.2.0.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mekmm-1.20.1-1.2.0.jar"
+  },
+  {
+    "nom": "mes-1.4.6-1.20.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mes-1.4.6-1.20.jar"
+  },
+  {
+    "nom": "mobs_of_mythology-forge-3.0.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mobs_of_mythology-forge-3.0.2.jar"
+  },
+  {
+    "nom": "MoogsNetherStructures-1.20-2.0.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/MoogsNetherStructures-1.20-2.0.2.jar"
+  },
+  {
+    "nom": "MoogsVoyagerStructures-1.20-5.0.4.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/MoogsVoyagerStructures-1.20-5.0.4.jar"
+  },
+  {
+    "nom": "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar"
+  },
+  {
+    "nom": "moonlight-1.20-2.16.28-forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/moonlight-1.20-2.16.28-forge.jar"
+  },
+  {
+    "nom": "morehitboxes-forge-1.20.1-1.9.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/morehitboxes-forge-1.20.1-1.9.2.jar"
+  },
+  {
+    "nom": "mowziesmobs-1.8.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mowziesmobs-1.8.2.jar"
+  },
+  {
+    "nom": "mowzies_cataclysm-1.2.0.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mowzies_cataclysm-1.2.0.jar"
+  },
+  {
+    "nom": "mss-1.2.7-1.20.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mss-1.2.7-1.20.jar"
+  },
+  {
+    "nom": "mutantmore-1.20.1-early_access-2.0.0.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/mutantmore-1.20.1-early_access-2.0.0.jar"
+  },
+  {
+    "nom": "Mutants.Buff.1.5.10.-.1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Mutants.Buff.1.5.10.-.1.20.1.jar"
+  },
+  {
+    "nom": "NaturesCompass-1.20.1-1.11.2-forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/NaturesCompass-1.20.1-1.11.2-forge.jar"
+  },
+  {
+    "nom": "nofriendlyfire-1.1-forge-1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/nofriendlyfire-1.1-forge-1.20.1.jar"
+  },
+  {
+    "nom": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar"
+  },
+  {
+    "nom": "Patchouli-1.20.1-85-FORGE.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Patchouli-1.20.1-85-FORGE.jar"
+  },
+  {
+    "nom": "Pehkui-3.8.2+1.20.1-forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Pehkui-3.8.2%2B1.20.1-forge.jar"
+  },
+  {
+    "nom": "photo-chat-1.1.4-1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/photo-chat-1.1.4-1.20.1.jar"
+  },
+  {
+    "nom": "PigPen-Forge-1.20.1-15.0.3.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/PigPen-Forge-1.20.1-15.0.3.jar"
+  },
+  {
+    "nom": "Placebo-1.20.1-8.6.3.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Placebo-1.20.1-8.6.3.jar"
+  },
+  {
+    "nom": "Platform-forge-1.20.1-1.3.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Platform-forge-1.20.1-1.3.2.jar"
+  },
+  {
+    "nom": "playtime-1.0.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/playtime-1.0.jar"
+  },
+  {
+    "nom": "progressivebosses-4.3.12.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/progressivebosses-4.3.12.jar"
+  },
+  {
+    "nom": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
+  },
+  {
+    "nom": "Quark-4.0-462.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Quark-4.0-462.jar"
+  },
+  {
+    "nom": "relics-1.20.1-0.8.0.13.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/relics-1.20.1-0.8.0.13.jar"
+  },
+  {
+    "nom": "reliquary-1.20.1-2.0.55.1326.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/reliquary-1.20.1-2.0.55.1326.jar"
+  },
+  {
+    "nom": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/resourcefulconfig-forge-1.20.1-2.1.3.jar"
+  },
+  {
+    "nom": "resourcefullib-forge-1.20.1-2.1.29.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/resourcefullib-forge-1.20.1-2.1.29.jar"
+  },
+  {
+    "nom": "rftoolsbase-1.20-5.0.6.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/rftoolsbase-1.20-5.0.6.jar"
+  },
+  {
+    "nom": "rottencreatures-forge-1.20.1-1.1.0.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/rottencreatures-forge-1.20.1-1.1.0.jar"
+  },
+  {
+    "nom": "Runelic-Forge-1.20.1-18.0.4.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Runelic-Forge-1.20.1-18.0.4.jar"
+  },
+  {
+    "nom": "ScalingMobs-2.4.3.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/ScalingMobs-2.4.3.jar"
+  },
+  {
+    "nom": "servercore-forge-1.5.2+1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/servercore-forge-1.5.2%2B1.20.1.jar"
+  },
+  {
+    "nom": "shadowizardlib-1.20.1-1.3.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/shadowizardlib-1.20.1-1.3.1.jar"
+  },
+  {
+    "nom": "simpleshops-1.2.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/simpleshops-1.2.2.jar"
+  },
+  {
+    "nom": "SmartBrainLib-forge-1.20.1-1.15.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/SmartBrainLib-forge-1.20.1-1.15.jar"
+  },
+  {
+    "nom": "sophisticatedbackpacks-1.20.1-3.24.31.1628.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/sophisticatedbackpacks-1.20.1-3.24.31.1628.jar"
+  },
+  {
+    "nom": "sophisticatedcore-1.20.1-1.3.16.1631.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/sophisticatedcore-1.20.1-1.3.16.1631.jar"
+  },
+  {
+    "nom": "sophisticatedstorage-1.20.1-1.4.33.1593.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/sophisticatedstorage-1.20.1-1.4.33.1593.jar"
+  },
+  {
+    "nom": "Structory_1.20.x_v1.3.5.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Structory_1.20.x_v1.3.5.jar"
+  },
+  {
+    "nom": "structureessentials-1.20.1-4.8.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/structureessentials-1.20.1-4.8.jar"
+  },
+  {
+    "nom": "structure_gel-1.20.1-2.16.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/structure_gel-1.20.1-2.16.2.jar"
+  },
+  {
+    "nom": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+  },
+  {
+    "nom": "supermartijn642corelib-1.1.21-forge-mc1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/supermartijn642corelib-1.1.21-forge-mc1.20.1.jar"
+  },
+  {
+    "nom": "supplementaries-1.20-3.1.42-forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/supplementaries-1.20-3.1.42-forge.jar"
+  },
+  {
+    "nom": "takesapillage-1.0.3-1.20.1.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/takesapillage-1.0.3-1.20.1.jar"
+  },
+  {
+    "nom": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+  },
+  {
+    "nom": "ToolStats-Forge-1.20.1-16.0.10.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/ToolStats-Forge-1.20.1-16.0.10.jar"
+  },
+  {
+    "nom": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Towns-and-Towers-1.12-Fabric%2BForge.jar"
+  },
+  {
+    "nom": "trashcans-1.0.18b-forge-mc1.20.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/trashcans-1.0.18b-forge-mc1.20.jar"
+  },
+  {
+    "nom": "uranus-2.2.6-bugfix.2-1.20.1-forge.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/uranus-2.2.6-bugfix.2-1.20.1-forge.jar"
+  },
+  {
+    "nom": "vanimals-0.4.3.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/vanimals-0.4.3.jar"
+  },
+  {
+    "nom": "voicechat-forge-1.20.1-2.6.15.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/voicechat-forge-1.20.1-2.6.15.jar"
+  },
+  {
+    "nom": "watermedia-2.1.37.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/watermedia-2.1.37.jar"
+  },
+  {
+    "nom": "watermedia_youtube_plugin-2.1.2.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/watermedia_youtube_plugin-2.1.2.jar"
+  },
+  {
+    "nom": "waystones-forge-1.20.1-14.1.20.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/waystones-forge-1.20.1-14.1.20.jar"
+  },
+  {
+    "nom": "witherstormmod-1.20.1-4.2.1-all.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/witherstormmod-1.20.1-4.2.1-all.jar"
+  },
+  {
+    "nom": "xnet-1.20-6.1.6.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/xnet-1.20-6.1.6.jar"
+  },
+  {
+    "nom": "xnetgases-1.20.1-5.1.4.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/xnetgases-1.20.1-5.1.4.jar"
+  },
+  {
+    "nom": "YungsApi-1.20-Forge-4.0.6.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/YungsApi-1.20-Forge-4.0.6.jar"
+  },
+  {
+    "nom": "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar"
+  },
+  {
+    "nom": "Zeta-1.0-31.jar",
+    "url": "https://github.com/Tygraique/mods-serveur/releases/download/v1.0/Zeta-1.0-31.jar"
   }
 ]
